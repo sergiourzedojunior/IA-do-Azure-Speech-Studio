@@ -1,1 +1,78 @@
 IA do Azure - Speech Studio
+
+**Conversão de arquivo mp4 em texto:**
+
+* AI enables us to build amazing software that can improve healthcare, enable people to overcome physical disadvantages. Empower smart infrastructure, create incredible entertainment experiences, and even save the planet. 
+
+
+![azurespeechstudio](outputs/azurespeechstudio-1.png) 
+
+
+## Frases com diversas polaridades de sentimentos para o Azure Speech Studio:
+
+**Positivas:**
+
+* **Alegria:**
+    * "Que dia maravilhoso! O sol está brilhando e os pássaros estão cantando."
+    * "Estou tão feliz por ter você na minha vida!"
+    * "Consegui! Finalmente terminei aquele projeto difícil."
+* **Entusiasmo:**
+    * "Mal posso esperar para começar essa nova aventura!"
+    * "Essa ideia é incrível! Vamos colocá-la em prática!"
+    * "Estou cheio de energia e pronto para conquistar o mundo!"
+* **Gratidão:**
+    * "Sou muito grato por tudo que tenho."
+    * "Obrigado por me ajudar quando mais precisei."
+    * "Aprecio muito sua amizade e apoio."
+* **Amor:**
+    * "Te amo mais do que as palavras podem dizer."
+    * "Você é a pessoa mais incrível que eu já conheci."
+    * "Sou tão sortudo por ter você em minha vida."
+
+**Negativas:**
+
+* **Tristeza:**
+    * "Estou me sentindo muito triste e desanimado."
+    * "Tive um dia péssimo e nada parece dar certo."
+    * "Sinto que perdi toda a minha esperança."
+* **Raiva:**
+    * "Estou furioso! Não acredito que você fez isso!"
+    * "Isso é completamente inaceitável! Eu exijo uma explicação!"
+    * "Chega! Não vou tolerar mais isso!"
+* **Medo:**
+    * "Estou com medo do que o futuro reserva."
+    * "Sinto que algo terrível vai acontecer."
+    * "Não consigo controlar o meu medo."
+* **Desprezo:**
+    * "Acho você nojento e repugnante."
+    * "Você é a pior pessoa que eu já conheci."
+    * "Desprezo tudo que você representa."
+
+**Neutras:**
+
+* **Curiosidade:**
+    * "O que será que vai acontecer depois?"
+    * "Como isso funciona?"
+    * "Me conte mais sobre isso."
+* **Confusão:**
+    * "Não estou entendendo nada."
+    * "Isso é muito confuso."
+    * "Alguém pode me explicar o que está acontecendo?"
+* **Aceitação:**
+    * "É assim que as coisas são."
+    * "Não há nada que eu possa fazer sobre isso."
+    * "Preciso aceitar a situação."
+
+**Mistas:**
+
+* **Felicidade com ansiedade:**
+    * "Estou feliz por ter conseguido o emprego, mas também estou ansioso para começar."
+* **Tristeza com esperança:**
+    * "Estou triste por ter perdido meu animal de estimação, mas tenho esperança de que um dia vou encontrar outro."
+* **Raiva com amor:**
+    * "Estou com raiva de você por ter feito isso, mas ainda te amo."
+
+
+![azurelanguagestudio-6](outputs/azurelanguagestudio-6.png) 
+
+![azurelanguagestudio-7](outputs/azurelanguagestudio-7.png) 
