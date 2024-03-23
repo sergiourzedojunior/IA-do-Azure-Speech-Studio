@@ -1,0 +1,1 @@
+IA do Azure - Speech Studio
